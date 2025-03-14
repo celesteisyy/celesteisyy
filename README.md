@@ -32,10 +32,4 @@ I’m interested in **Data Analytics & Science** / **Financial Analytics & Risk 
 - **Connect Me 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
-
-If you are also curious about my gaming experience... 🤫 （I mean, why not?)
-
-[![Steam Badge](https://img.shields.io/badge/Steam-Profile-1b2838?style=flat-square&logo=steam&logoColor=white)](
-https://steamcommunity.com/id/CelesY/)
-
----
+©2025 Celeste Huang
