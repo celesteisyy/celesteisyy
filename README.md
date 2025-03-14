@@ -29,7 +29,7 @@ I’m interested in **Data Analytics & Science** / **Financial Analytics & Risk 
 
 ### How to reach me 📬
 - **Ask me Anything 💁**: [If you are in China](mailto:yueying0huang@163.com) / [If you are outside China](mailto:yueying-huang@outlook.com) 
-- **Connect Me 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
+- **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
 ©2025 Celeste Huang
