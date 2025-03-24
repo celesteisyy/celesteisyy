@@ -32,4 +32,8 @@ I’m interested in **Data Analytics & Science** / **Financial Analytics & Risk 
 - **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
+
+p.s.: If you are interested in how to pronounce my name https://www.name-coach.com/yueying-huang-64c70dff-2f17-485a-8502-72437e348c48 
+
+---
 ©2025 Celeste Huang
