@@ -2,10 +2,11 @@
 
 My name is **Celeste Huang**. (or you can call me  Yueying 玥莹）
 
-I’m currently a master student/Duolingo 2024 top 5% Spanish learner(😆) at **UIUC**.  
+I hold a Master's Degree in Business Analytics with a concentration in Financial Data Analysis, a Bachelor's degree in Finance, with a minior in Applied Statistics.
+
 Welcome to my GitHub page! ✨
 
-I’m interested in **Data Analytics & Science** / **Financial Analytics & Risk Management** / **Marketing Analytics** 👩‍🔬
+I’m interested in **Data Analytics & Science** / **Financial Risk Management** / **Marketing Analytics** 👩‍🔬
 
 ---
 
