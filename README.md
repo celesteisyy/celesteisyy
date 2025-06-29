@@ -2,7 +2,7 @@
 
 My name is **Celeste Huang**. (or you can call me  Yueying 玥莹）
 
-I hold a Master's Degree in Business Analytics with a concentration in Financial Data Analysis, a Bachelor's degree in Finance, with a minior in Applied Statistics.
+A Master's Degree holder in Business Analytics with a concentration in Financial Data Analysis, a Bachelor's degree in Finance, with a minior in Applied Statistics.
 
 Welcome to my GitHub page! ✨
 
