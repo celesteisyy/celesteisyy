@@ -9,6 +9,7 @@ Welcome to my GitHub page! ✨
 My areas of interest include **Data Analytics & Science**, **Financial Risk Management**, and **Marketing Analytics & Modelling**. 👩‍🔬
 
 Currently, I'm working as a Data Analyst focusing on data and predictive modeling, generating insights and executable strategies.
+
 ---
 
 ### Skills
