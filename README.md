@@ -1,13 +1,14 @@
 ## Hi there 👋 你好呀 👋
 
-My name is **Celeste Huang**. (or you can call me  Yueying 玥莹）
+My name is **Celeste Huang**. (or you can call me Yueying 玥莹）
 
-A Master's Degree holder in Business Analytics with a concentration in Financial Data Analysis, a Bachelor's degree in Finance, with a minior in Applied Statistics.
+A Master of Science Degree holder in Business Analytics with a concentration in `Data Analysis in Finance`; Bachelor of Economics in Finance, with a minior in Applied Statistics.
 
 Welcome to my GitHub page! ✨
 
-I’m interested in **Data Analytics & Science** / **Financial Risk Management** / **Marketing Analytics** 👩‍🔬
+My areas of interest include **Data Analytics & Science**, **Financial Risk Management**, and **Marketing Analytics & Modelling**. 👩‍🔬
 
+Currently, I'm working as a Data Analyst focusing on data and predictive modeling, generating insights and executable strategies.
 ---
 
 ### Skills
@@ -29,12 +30,12 @@ I’m interested in **Data Analytics & Science** / **Financial Risk Management**
 ---
 
 ### How to reach me 📬
-- **Ask me Anything 💁**: [If you are in China](mailto:yueying0huang@163.com) / [If you are outside China](mailto:yueying-huang@outlook.com) 
+- **Ask me Anything 💁**: [If you are inside China](mailto:yueying0huang@163.com) / [If you are outside China](mailto:yueying-huang@outlook.com) 
 - **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
 
-p.s.: If you are interested in how to pronounce my name https://www.name-coach.com/yueying-huang-64c70dff-2f17-485a-8502-72437e348c48 
+p.s.📝 About my name - pronunciation and meaning: [Name Coach](https://www.name-coach.com/yueying-huang-64c70dff-2f17-485a-8502-72437e348c48)
 
 ---
-©2025 Celeste Huang
+©2025 Yueying (Celeste) Huang
