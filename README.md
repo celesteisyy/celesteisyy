@@ -2,13 +2,15 @@
 
 My name is **Celeste Huang**. (or you can call me Yueying 玥莹）
 
-A Master of Science Degree holder in `Business Analytics` with a concentration in `Data Analysis in Finance`; Bachelor of Economics in `Finance(CFA track)`, with a minior in `Applied Statistics`.
+🎓 I'm a Master of Science in **Business Analytics**, with a concentration in *Data Analysis in Finance*.  
+I also hold a Bachelor's degree in **Finance (CFA track)**, with a **minor in Applied Statistics**.
 
-Welcome to my GitHub page! ✨
+Welcome to my GitHub! ✨
 
-My areas of interest include **Data Analytics & Science**, **Financial Risk Management**, and **Marketing Analytics & Modelling**. 👩‍🔬
+My interests span across **Data Analytics & Science**, **Financial Risk Management**, and **Marketing Analytics & Modeling**.  
+Lately, I’ve also been exploring topics in **data security**, including secure data architectures and governance on the cloud.
 
-Currently, I'm working as a Data Analyst focusing on data and predictive modeling, generating insights and executable strategies.
+📊 Currently, I'm working as a Data Analyst, focusing on predictive modeling, business insights, and data-driven decision-making.
 
 ---
 
@@ -31,7 +33,7 @@ Currently, I'm working as a Data Analyst focusing on data and predictive modelin
 ---
 
 ### How to reach me 📬
-- **Ask me Anything 💁**: [If you are inside China](mailto:yueying0huang@163.com) / [If you are outside China](mailto:yueying-huang@outlook.com) 
+- **Ask me Anything 💁**: [Email](mailto:yueying-huang@outlook.com) 
 - **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
