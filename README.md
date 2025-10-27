@@ -1,14 +1,15 @@
-## Hi there 👋 你好呀 👋
+## Hi there 👋
 
-My name is **Celeste Huang**. (or you can call me Yueying 玥莹）
+This is **Celeste Huang**. 
 
 🎓 I'm a Master of Science in **Business Analytics**, with a concentration in *Data Analysis in Finance*.  
 I also hold a Bachelor's degree in **Finance (CFA track)**, with a **minor in Applied Statistics**.
 
 Welcome to my GitHub! ✨
 
-My interests span across **Data Analytics & Science**, **Financial Risk Management**, and **Marketing Analytics & Modeling**.  
-Lately, I’ve also been exploring topics in **data security**, including secure data architectures and governance on the cloud.
+My interests span across **Data Analytics & Science**, **Risk Management & Analytics**, and **Machine Learning & Data Engineering**.  
+
+Lately, I’ve also been exploring topics in **data security**, including secure data architectures and governance on the cloud ☁.
 
 📊 Currently, I'm working as a Data Analyst, focusing on predictive modeling, business insights, and data-driven decision-making.
 
@@ -32,13 +33,23 @@ Lately, I’ve also been exploring topics in **data security**, including secure
 
 ---
 
-### How to reach me 📬
-- **Ask me Anything 💁**: [Email](mailto:yueying-huang@outlook.com) 
+### Cloud & Platforms
+
+* ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+* ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+* ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+---
+
+### Database & Data Processing
+
+* ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+* ![MongoDB](https://imgshields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### Contact Ne 📬
+- **Ask me Anything 📟**: [Email](mailto:yueying-huang@outlook.com) 
 - **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
-
-p.s.📝 About my name - pronunciation and meaning: [Name Coach](https://www.name-coach.com/yueying-huang-64c70dff-2f17-485a-8502-72437e348c48)
-
----
-©2025 Yueying (Celeste) Huang
+©2025 Celeste Huang
