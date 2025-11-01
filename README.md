@@ -2,9 +2,6 @@
 
 This is **Celeste Huang**. 
 
-🎓 I'm a Master of Science in **Business Analytics**, with a concentration in *Data Analysis in Finance*.  
-I also hold a Bachelor's degree in **Finance (CFA track)**, with a **minor in Applied Statistics**.
-
 Welcome to my GitHub! ✨
 
 My interests span across **Data Analytics & Science**, **Risk Management & Analytics**, and **Machine Learning & Data Engineering**.  
