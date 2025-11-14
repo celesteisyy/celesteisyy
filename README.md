@@ -43,7 +43,7 @@ Lately, I’ve also been exploring topics in **data security**, including secure
 
 ---
 
-### Contact Ne 📬
+### Contact Me 📬
 - **Ask me Anything 📟**: [Email](mailto:celesteisyy@duck.com) 
 - **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
