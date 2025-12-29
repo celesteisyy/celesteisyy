@@ -8,7 +8,7 @@ My interests span across **Data Analytics & Science**, **Risk Management & Analy
 
 Lately, I’ve also been exploring topics in **data security**, including secure data architectures and governance on the cloud ☁.
 
-📊 Currently, I'm working as a Data Analyst, focusing on predictive modeling, business insights, and data-driven decision-making.
+📊 Currently, I'm working as a Data Engineer, focusing on predictive modeling, security insights, and data-driven decision-making.
 
 ---
 
