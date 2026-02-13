@@ -2,13 +2,13 @@
 
 This is **Celeste Huang**. 
 
-Welcome to my GitHub! ✨
+My work lives at the intersection of Data Analytics & Science, Risk Management & Analytics, and Machine Learning & Data Engineering.
 
-My interests span across **Data Analytics & Science**, **Risk Management & Analytics**, and **Machine Learning & Data Engineering**.  
+Recently, I’ve been diving deeper into security-focused data science, especially how machine learning enhances User and Entity Behavior Analytics (UEBA) to detect insider threats, abnormal patterns, and evolving attack surfaces. From modeling user behavior baselines to triggering anomaly alerts, I'm passionate about how ML can illuminate the hidden risks in complex environments.
 
-Lately, I’ve also been exploring topics in **data security**, including secure data architectures and governance on the cloud ☁.
+I'm also exploring cloud-native security architectures and governance strategies, aiming to make data ecosystems more resilient, transparent, and intelligent.
 
-📊 Currently, I'm working as a Data Engineer, focusing on predictive modeling, security insights, and data-driven decision-making.
+Currently, I work as a Data Security Engineer, building robust pipelines and predictive models that power security insights and drive informed, risk-aware decision-making.
 
 ---
 
