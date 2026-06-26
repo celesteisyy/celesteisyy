@@ -1,14 +1,19 @@
 ## Hi there 👋
 
-This is **Celeste Huang**. 
+This is **Celeste**, I’m interested in the intersection of data, risk, and security.
 
-My work lives at the intersection of Data Analytics & Science, Risk Management & Analytics, and Machine Learning & Data Engineering.
+My background spans statistics, business analytics, and cybersecurity. I’m currently exploring security governance, AI governance, cloud security, and security-focused data analysis.
 
-Recently, I’ve been diving deeper into security-focused data science, especially how machine learning enhances User and Entity Behavior Analytics (UEBA) to detect insider threats, abnormal patterns, and evolving attack surfaces. From modeling user behavior baselines to triggering anomaly alerts, I'm passionate about how ML can illuminate the hidden risks in complex environments.
+I like working on problems that connect technical systems with real-world risk, especially where data can help improve visibility, decision-making, and controls.
 
-I'm also exploring cloud-native security architectures and governance strategies, aiming to make data ecosystems more resilient, transparent, and intelligent.
+Currently learning and building around:
 
-Currently, I work as a Data Security Engineer, building robust pipelines and predictive models that power security insights and drive informed, risk-aware decision-making.
+- Security governance
+- AI governance and responsible AI usage
+- Cloud security fundamentals
+- Security analytics
+- Data modeling and risk visualization
+- Machine learning for risk and anomaly detection
 
 ---
 
@@ -48,4 +53,4 @@ Currently, I work as a Data Security Engineer, building robust pipelines and pre
 - **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
 
 ---
-©2025 Celeste Huang
+©2026 Celeste Huang
