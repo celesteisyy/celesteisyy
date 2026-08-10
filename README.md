@@ -1,56 +1,37 @@
-## Hi there 👋
+## Hi, I'm Celeste 👋
 
-This is **Celeste**, I’m interested in the intersection of data, risk, and security.
+**Security Engineer focused on AI and application security, with a strong foundation in data and security analytics.**
 
-My background spans statistics, business analytics, and cybersecurity. I’m currently exploring security governance, AI governance, cloud security, and security-focused data analysis.
+I work across application security assurance, critical-system assessments, AI-enabled workflows, and security analytics, focusing on application architectures, access paths, permission boundaries, tech-stack exposure, and sensitive data flows, and translating risks and control gaps into actionable security requirements and remediation.
 
-I like working on problems that connect technical systems with real-world risk, especially where data can help improve visibility, decision-making, and controls.
+### What I work on
 
-Currently learning and building around:
+- **Application Security Assurance** — reviewing application architectures and security-control coverage, improving application and technology-stack inventories for vulnerability scoping, and establishing assessment cadences and remediation timelines
+- **AI Security & Data Protection** — assessing AI-enabled applications, repository-connected tools, permission boundaries, data exposure, and tool execution paths
+- **Security Assessments** — reviewing access architecture, authorization, sensitive operations, data flows, logging, and monitoring for critical business systems
+- **Security Analytics** — modeling account and access behavior, designing risk indicators, and using anomaly detection to support investigation and audit
 
-- Security governance
-- AI governance and responsible AI usage
-- Cloud security fundamentals
-- Security analytics
-- Data modeling and risk visualization
-- Machine learning for risk and anomaly detection
+### Selected work
 
----
+- **Cyssie** — a self-hosted AI assistant built with FastAPI, RAG, skill-based orchestration, tool calling, and fail-closed authentication, deployed on AWS
+- **Application Security Assurance & Vulnerability Triage** — evaluating reported findings and architecture risks in application context, assessing exploitability, prerequisites, affected interfaces, roles, and data, and translating confirmed exposure and control gaps into remediation requirements and closure criteria
+- **Security Architecture & Risk Assessment** — practical analysis of access paths, trust boundaries, sensitive data flows, and security controls
 
-### Skills
-#### Programming
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Technical toolkit
 
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+- **Security:** AI Security · Application Security Assurance · Security Assessment · Vulnerability & Exposure Management · Data Protection · IAM · Security Governance
+- **Data & AI:** Security Analytics · Anomaly Detection · Machine Learning · RAG · Feature Engineering
+- **Languages:** Python · SQL · R
+- **Cloud & Development:** AWS · Azure · FastAPI · Git · Linux
 
----
+### Certification
 
-### Collaborate
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-informational?style=for-the-badge&logo=github&logoColor=white)](https://github.com/celesteisyy)
-[![Notion](https://img.shields.io/badge/Notion-Workspace-black?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/)
+- AWS Certified Security – Specialty
 
----
+### Connect
 
-### Cloud & Platforms
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
----
-
-### Database & Data Processing
-
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+[Portfolio](https://celesteisyy.github.io) · [LinkedIn](https://www.linkedin.com/in/yueying-huang) · [Email](mailto:celesteisyy@duck.com)
 
 ---
 
-### Contact Me 📬
-- **Ask me Anything 📟**: [Email](mailto:celesteisyy@duck.com) 
-- **Let's Connect 🔗**: [LinkedIn](https://www.linkedin.com/in/yueying-huang)
-
----
-©2026 Celeste Huang
+© 2026 Celeste Huang
